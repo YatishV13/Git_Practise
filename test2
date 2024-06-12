@@ -1,0 +1,2 @@
+git clone is done only for first time only, once changes are made in file then we need to do git pull which will update repo, 
+pull can be used any number of times but clone is used only once
