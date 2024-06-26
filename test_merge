@@ -2,3 +2,4 @@ checking git merge command from b1 branch to master branch
 to do this we need to be in base branch(main branch, branch where we want to merge)
 file from b1 branch will be merged to main branch
 checking for merge conflicts by changing file in main and mering same file name in b1
+check push
